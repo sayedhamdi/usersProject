@@ -1,0 +1,10 @@
+.users-list{
+    display:flex;
+    flex-direction:column;
+  
+}
+.user {
+    border: 3px solid orange;
+    display:flex;
+    justify-content:space-around;
+}
